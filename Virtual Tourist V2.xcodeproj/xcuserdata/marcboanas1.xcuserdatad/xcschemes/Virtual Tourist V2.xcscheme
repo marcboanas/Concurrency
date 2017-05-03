@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "032584241EB8AB4600502DF9"
-               BuildableName = "Concurrency.app"
-               BlueprintName = "Concurrency"
-               ReferencedContainer = "container:Concurrency.xcodeproj">
+               BuildableName = "Virtual Tourist V2.app"
+               BlueprintName = "Virtual Tourist V2"
+               ReferencedContainer = "container:Virtual Tourist V2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "032584381EB8AB4800502DF9"
-               BuildableName = "ConcurrencyTests.xctest"
-               BlueprintName = "ConcurrencyTests"
-               ReferencedContainer = "container:Concurrency.xcodeproj">
+               BuildableName = "Virtual Tourist V2Tests.xctest"
+               BlueprintName = "Virtual Tourist V2Tests"
+               ReferencedContainer = "container:Virtual Tourist V2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "032584431EB8AB4800502DF9"
-               BuildableName = "ConcurrencyUITests.xctest"
-               BlueprintName = "ConcurrencyUITests"
-               ReferencedContainer = "container:Concurrency.xcodeproj">
+               BuildableName = "Virtual Tourist V2UITests.xctest"
+               BlueprintName = "Virtual Tourist V2UITests"
+               ReferencedContainer = "container:Virtual Tourist V2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "032584241EB8AB4600502DF9"
-            BuildableName = "Concurrency.app"
-            BlueprintName = "Concurrency"
-            ReferencedContainer = "container:Concurrency.xcodeproj">
+            BuildableName = "Virtual Tourist V2.app"
+            BlueprintName = "Virtual Tourist V2"
+            ReferencedContainer = "container:Virtual Tourist V2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,11 +76,17 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "032584241EB8AB4600502DF9"
-            BuildableName = "Concurrency.app"
-            BlueprintName = "Concurrency"
-            ReferencedContainer = "container:Concurrency.xcodeproj">
+            BuildableName = "Virtual Tourist V2.app"
+            BlueprintName = "Virtual Tourist V2"
+            ReferencedContainer = "container:Virtual Tourist V2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "-com.apple.CoreData.ConcurrencyDebug 1"
+            isEnabled = "YES">
+         </CommandLineArgument>
+      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -95,9 +101,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "032584241EB8AB4600502DF9"
-            BuildableName = "Concurrency.app"
-            BlueprintName = "Concurrency"
-            ReferencedContainer = "container:Concurrency.xcodeproj">
+            BuildableName = "Virtual Tourist V2.app"
+            BlueprintName = "Virtual Tourist V2"
+            ReferencedContainer = "container:Virtual Tourist V2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

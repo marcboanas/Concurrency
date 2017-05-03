@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Concurrency.xcodeproj">
+      location = "self:/Users/marcboanas1/Documents/iOS/Concurrency/Virtual Tourist V2.xcodeproj">
    </FileRef>
 </Workspace>
